@@ -14,7 +14,6 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Softwar
 
 
 
-
 🧪 Mi Experiencia técnica en control de calidad es:
 - Pruebas manuales (funcionales, de regresión, UI, API)
 - Automatización con Selenium y WebdriverIO

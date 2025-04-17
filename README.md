@@ -1,5 +1,25 @@
 ## Hi there, 👋 me llamo Jessica Ochoa
 
+---
+ <div id="header" align="left">
+
+### :woman_technologist: Sobre mí :
+
+Apasionada de la tecnología y disfrutando de una transición laboral al Software QA Testing <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :telescope: Actualmente trabajo en una empresa familiar dedicada ala fabricación de tejido de punto pero necesito nuevos retos :muscle:
+
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL básico y Selenium, sin dejar de lado las increíbles herramientas de Microsoft.
+
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-ochoa-garcia-jessica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+
+
+
+
+
 🧪 Mi Experiencia técnica en control de calidad es:
 - Pruebas manuales (funcionales, de regresión, UI, API)
 - Automatización con Selenium y WebdriverIO

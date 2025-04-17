@@ -2,7 +2,7 @@
 
 ### :woman_technologist: Sobre mí :
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Software QA Testing <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionada de la tecnología y disfrutando de una transición laboral hacia Software QA Tester <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :telescope: Actualmente trabajo en una empresa familiar dedicada ala fabricación de tejido de punto pero necesito nuevos retos :muscle:
 

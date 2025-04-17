@@ -7,5 +7,5 @@
 - Validación de API con Postman
 - Herramientas: Jira, GitHub, DevTools, Bash
 
-🚀 En búsqueda de nuevas oportunidades
+🚀 En búsqueda de nuevas oportunidades:
 Estoy lista para formar parte en proyectos donde pueda seguir creciendo en el mundo del testing, aportar mis conocimientos y aprender nuevas tecnologías. Me motiva resolver problemas reales y garantizar que los productos cumplan con altos estándares de calidad.

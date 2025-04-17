@@ -36,7 +36,9 @@ Apasionada de la tecnología y disfrutando de una transición laboral hacia Soft
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
-  
+  <img decoding="async" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  </a> 
+    
 </div>
 
 

@@ -19,7 +19,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral hacia Soft
 - Automatización con Selenium y WebdriverIO
 - Testing de aplicaciones móviles con Android Studio
 - Validación de API con Postman
-- Herramientas: Jira, GitHub, DevTools, Bash
+
 
 🚀 En búsqueda de nuevas oportunidades:
 - Estoy lista para formar parte en proyectos donde pueda seguir creciendo en el mundo del testing, aportar mis conocimientos y aprender nuevas tecnologías. Me motiva resolver problemas reales y garantizar que los productos cumplan con altos estándares de calidad.
@@ -42,6 +42,14 @@ Apasionada de la tecnología y disfrutando de una transición laboral hacia Soft
   </a> 
   <img decoding="async" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a> 
+  <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a> 
+  <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  </a>  
+  <img decoding="async" src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DevTools"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  </a>
     
 </div>
 

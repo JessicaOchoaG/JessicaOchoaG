@@ -12,5 +12,5 @@
 
   ## Find me at:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica-Ochoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ochoa-garcia-jessica?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
 

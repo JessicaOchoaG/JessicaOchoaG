@@ -38,6 +38,10 @@ Apasionada de la tecnología y disfrutando de una transición laboral hacia Soft
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   </a> 
+  <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </a> 
+  <img decoding="async" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a> 
     
 </div>
 

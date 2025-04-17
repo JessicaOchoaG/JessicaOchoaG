@@ -10,7 +10,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Softwar
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ochoa-garcia-jessica/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ochoa-garcia-jessica/)
 
 
 
@@ -32,7 +32,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Softwar
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=mysql&logoColor=white" alt="selenium"/>
+    <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>

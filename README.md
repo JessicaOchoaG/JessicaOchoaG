@@ -8,4 +8,9 @@
 - Herramientas: Jira, GitHub, DevTools, Bash
 
 🚀 En búsqueda de nuevas oportunidades:
-Estoy lista para formar parte en proyectos donde pueda seguir creciendo en el mundo del testing, aportar mis conocimientos y aprender nuevas tecnologías. Me motiva resolver problemas reales y garantizar que los productos cumplan con altos estándares de calidad.
+- Estoy lista para formar parte en proyectos donde pueda seguir creciendo en el mundo del testing, aportar mis conocimientos y aprender nuevas tecnologías. Me motiva resolver problemas reales y garantizar que los productos cumplan con altos estándares de calidad.
+
+  ## Find me at:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica-Ochoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
+

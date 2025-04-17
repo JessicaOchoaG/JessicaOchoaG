@@ -24,5 +24,19 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Softwar
 🚀 En búsqueda de nuevas oportunidades:
 - Estoy lista para formar parte en proyectos donde pueda seguir creciendo en el mundo del testing, aportar mis conocimientos y aprender nuevas tecnologías. Me motiva resolver problemas reales y garantizar que los productos cumplan con altos estándares de calidad.
 
+---
+
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=mysql&logoColor=white" alt="selenium"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+  
+</div>
 
 

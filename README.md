@@ -10,7 +10,5 @@
 🚀 En búsqueda de nuevas oportunidades:
 - Estoy lista para formar parte en proyectos donde pueda seguir creciendo en el mundo del testing, aportar mis conocimientos y aprender nuevas tecnologías. Me motiva resolver problemas reales y garantizar que los productos cumplan con altos estándares de calidad.
 
-  ## Find me at:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ochoa-garcia-jessica?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
 
